@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fun Java projects
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any java project
-- 📫 How to reach me : via discord lordshadow8552
+- 📫 How to reach me : via discord shadowofpixels
 
 <!---
 ShadowOfPixels/ShadowOfPixels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
